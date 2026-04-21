@@ -1,7 +1,20 @@
-# StudySynk Waitlist
+<div align="center">
+  <h1>StudySynk Waitlist</h1>
+  <p><strong>Demo waitlist landing page for a student project collaboration tool.</strong></p>
+  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Website-a78bfa?style=for-the-badge)](https://omsingh02.github.io/studysynk-waitlist/)
+  [![Main Offer](https://img.shields.io/badge/Portfolio_of-Om_Singh-black?style=for-the-badge)](https://omsingh02.github.io/weekend-launch-page/)
 
-Demo waitlist landing page for a fictional student collaboration tool. Built as a portfolio demo to show the kind of startup-style waitlist pages I deliver through my [Weekend Launch Page](https://omsingh02.github.io/weekend-launch-page/) service.
+  <br>
+  
+  <a href="https://omsingh02.github.io/studysynk-waitlist/">
+    <img src="https://api.microlink.io/?url=https://omsingh02.github.io/studysynk-waitlist/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview of StudySynk Waitlist" width="800">
+  </a>
+</div>
 
+<br>
+
+<br>
 ## What this is
 
 A clean, focused early-access waitlist page for a student project coordination tool. Problem statement, features, audience targeting, trust section, and email capture CTA.
