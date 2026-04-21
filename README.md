@@ -15,7 +15,8 @@
 <br>
 
 <br>
-## What this is
+
+## What this is ?
 
 A clean, focused early-access waitlist page for a student project coordination tool. Problem statement, features, audience targeting, trust section, and email capture CTA.
 
